@@ -6,4 +6,4 @@
 - 👯 I’m looking to collaborate on anything that seems interesting! I am still exploring what I like.
 - 🤔 I’m looking for help with everything xd
 - 💬 Ask me about anything
-- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-arnedo-villanueva-454a36169/)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-arnedo-villanueva-454a36169/)
