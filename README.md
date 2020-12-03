@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**navillanueva/navillanueva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently studying in Hanyang University in Seoul, South Korea 
 - 🌱 I’m currently learning React Native for an app project in Software Engineering course.
 - 🌱 I´m also learning R and python for a predicting algorithm in AI course.
@@ -10,4 +7,3 @@
 - 🤔 I’m looking for help with ... everything xd
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-arnedo-villanueva-454a36169/)
--->
