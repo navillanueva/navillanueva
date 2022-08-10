@@ -1,6 +1,6 @@
 ### 👋 Hi there, I´m Nico 
 
-- 🔭 I’m a Computer Scientist graduate as of July of 2022
+- 🔭 I’m a Computer Science Graduate as of July of 2022
 - 🌱 I did my studies at Universidad Carlos 3 de Madrid, and studied one year abroad at Hanyang University, in South Korea
 - 👯 I’m currently focusing on learning solidity and javascript to further my knowledge in the web3 space
 - 🤔 I’m looking to collaborate on anything that seems interesting! I am still exploring what I like.
