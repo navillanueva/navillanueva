@@ -10,8 +10,11 @@
 
 **Brief rundown of my portafolio**
 
-You will see most of my repositories will start with uc3m, which stands for the university I studied. Since this has been my main focus during the past years, the gran mayority of my repos are university-related projects. Some are a bit messy, some dont have the datasets because I cant access them anymore and so forth. The later ones tend to be a bit more up-to-date and functional, but it has been quite the process.
+My repos are named using the following convention:
 
-Any other repo you find without uc3m at the beginnig is most likely to be a little project I decided to do. As I grow and learn as a computer scientist, I promise you my GitHub repos will also get better!
+- **uc3m-**: this is stands for _universidad carlos 3 madrid_ and you will find projects I did for my courses in my bachelors in Computer Science.
+- **fcc-**: this stands for _free code camp_ and you will find doocumented code I wrote down from a free 32 hour course on blockchain by freecodecamp. Find the OG github (here)[https://github.com/smartcontractkit/full-blockchain-solidity-course-js].
+- **pp-**: this stands for _personal project_ and will find a variety of solididty small projects and some design work I have done,
+
 
 Thanks for taking the time to check my profile out and have a good day :)
