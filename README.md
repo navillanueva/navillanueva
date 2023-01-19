@@ -13,7 +13,7 @@
 My repos are named using the following convention:
 
 - **uc3m-**: this is stands for _universidad carlos 3 madrid_ and you will find projects I did for my courses in my bachelors in Computer Science.
-- **fcc-**: this stands for _free code camp_ and you will find doocumented code I wrote down from a free 32 hour course on blockchain by freecodecamp. Find the OG github (here)[https://github.com/smartcontractkit/full-blockchain-solidity-course-js].
+- **fcc-**: this stands for _free code camp_ and you will find doocumented code I wrote down from a free 32 hour course on blockchain by freecodecamp. Find the OG github [here](https://github.com/smartcontractkit/full-blockchain-solidity-course-js).
 - **pp-**: this stands for _personal project_ and will find a variety of solididty small projects and some design work I have done,
 
 
